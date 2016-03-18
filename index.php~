@@ -12,6 +12,4 @@
 </html>
 <?php
 	echo "Hello World!"
-
-	echo "<h1>Salam elekim</h1>"
 ?>
